@@ -1,0 +1,9 @@
+name: darren-py3-2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - pandas
+  - numpy
+  - matplotlib
